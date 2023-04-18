@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaduIordac
-- 👀 I’m interested in ... codind , data management, data analytics, databases
+- 👀 I’m interested in ... coding , data management, data analytics, databases
 - 🌱 I’m currently learning ... .Net
 - 💞️ I’m looking to collaborate on ... learning,Open to work
 - 📫 How to reach me ... radu_iordache_83@yahoo.com
